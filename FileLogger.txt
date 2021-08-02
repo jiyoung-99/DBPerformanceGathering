@@ -1,0 +1,1473 @@
+2021-07-26 15:07:04.909 InputStreamServerHandler simulation statHandler:::::::com.skylar.server.handler.statHandler.DbStatHandler@59f9c4ab
+2021-07-26 15:07:04.927 InputStreamServerHandler simulation statHandler:::::::com.skylar.server.handler.statHandler.SessionStatHandler@6be52954
+2021-07-26 15:07:05.119 InputStreamServerHandler simulation statHandler:::::::com.skylar.server.handler.statHandler.SqlStatHandler@7ed52fab
+2021-07-26 15:07:08.016 InputStreamServerHandler simulation statHandler:::::::com.skylar.server.handler.statHandler.DbStatHandler@59f9c4ab
+2021-07-26 15:07:08.025 InputStreamServerHandler simulation statHandler:::::::com.skylar.server.handler.statHandler.SessionStatHandler@6be52954
+2021-07-26 15:07:08.117 InputStreamServerHandler simulation statHandler:::::::com.skylar.server.handler.statHandler.SqlStatHandler@7ed52fab
+2021-07-26 16:11:11 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:11 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:11 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:11 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:11 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:11 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:14 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:14 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:14 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:14 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:14 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:14 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:17 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:17 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:17 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:17 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:17 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:17 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:20 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:20 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.DbStatHandler@b981af9
+2021-07-26 16:11:20 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:20 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SessionStatHandler@6e7aad6e
+2021-07-26 16:11:20 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:20 [ERROR][file] InputStreamServerHandler [MESSAGE] ::::com.skylar.server.handler.statHandler.SqlStatHandler@2d8dc321
+2021-07-26 16:11:55 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.DbStatHandler@6b5e74a2
+2021-07-26 16:11:55 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.DbStatHandler@6b5e74a2
+2021-07-26 16:11:55 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SessionStatHandler@1016e923
+2021-07-26 16:11:55 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SessionStatHandler@1016e923
+2021-07-26 16:11:55 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SqlStatHandler@2ad16c9e
+2021-07-26 16:11:55 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SqlStatHandler@2ad16c9e
+2021-07-26 16:11:58 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.DbStatHandler@6b5e74a2
+2021-07-26 16:11:58 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.DbStatHandler@6b5e74a2
+2021-07-26 16:11:58 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SessionStatHandler@1016e923
+2021-07-26 16:11:58 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SessionStatHandler@1016e923
+2021-07-26 16:11:58 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SqlStatHandler@2ad16c9e
+2021-07-26 16:11:58 [ERROR][file] InputStreamServerHandler [MESSAGE] ::error::com.skylar.server.handler.statHandler.SqlStatHandler@2ad16c9e
+[ERROR] 2021-07-26 17:22:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@3b8ab02a
+[WARN] 2021-07-26 17:22:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@3b8ab02a
+[ERROR] 2021-07-26 17:22:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@5f87a7bf
+[WARN] 2021-07-26 17:22:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@5f87a7bf
+[ERROR] 2021-07-26 17:22:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@3d8ccb9e
+[WARN] 2021-07-26 17:22:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@3d8ccb9e
+[ERROR] 2021-07-26 17:22:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@3b8ab02a
+[WARN] 2021-07-26 17:22:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@3b8ab02a
+[ERROR] 2021-07-26 17:22:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@5f87a7bf
+[WARN] 2021-07-26 17:22:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@5f87a7bf
+[ERROR] 2021-07-26 17:22:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@3d8ccb9e
+[WARN] 2021-07-26 17:22:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@3d8ccb9e
+[ERROR] 2021-07-26 17:22:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@3b8ab02a
+[WARN] 2021-07-26 17:22:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@3b8ab02a
+[ERROR] 2021-07-26 17:22:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@5f87a7bf
+[WARN] 2021-07-26 17:22:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@5f87a7bf
+[ERROR] 2021-07-26 17:22:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@3d8ccb9e
+[WARN] 2021-07-26 17:22:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@3d8ccb9e
+[ERROR] 2021-07-26 17:23:47 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[WARN] 2021-07-26 17:23:47 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[ERROR] 2021-07-26 17:23:47 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[WARN] 2021-07-26 17:23:47 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[ERROR] 2021-07-26 17:23:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[WARN] 2021-07-26 17:23:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[ERROR] 2021-07-26 17:23:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[WARN] 2021-07-26 17:23:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[ERROR] 2021-07-26 17:23:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[WARN] 2021-07-26 17:23:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[ERROR] 2021-07-26 17:23:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[WARN] 2021-07-26 17:23:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[ERROR] 2021-07-26 17:23:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[WARN] 2021-07-26 17:23:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[ERROR] 2021-07-26 17:23:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[WARN] 2021-07-26 17:23:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[ERROR] 2021-07-26 17:23:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[WARN] 2021-07-26 17:23:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[ERROR] 2021-07-27 10:28:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@491593ef
+[WARN] 2021-07-27 10:28:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@491593ef
+[ERROR] 2021-07-27 10:28:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@4cb28781
+[WARN] 2021-07-27 10:28:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@4cb28781
+[ERROR] 2021-07-27 10:28:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@8aae123
+[WARN] 2021-07-27 10:28:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@8aae123
+[ERROR] 2021-07-27 10:38:28 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@491593ef
+[WARN] 2021-07-27 10:38:28 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@491593ef
+[ERROR] 2021-07-27 10:38:28 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@4cb28781
+[WARN] 2021-07-27 10:38:28 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@4cb28781
+[ERROR] 2021-07-27 10:38:28 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@8aae123
+[WARN] 2021-07-27 10:38:28 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@8aae123
+[ERROR] 2021-07-27 10:38:31 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@491593ef
+[WARN] 2021-07-27 10:38:31 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@491593ef
+[ERROR] 2021-07-27 10:38:31 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@4cb28781
+[WARN] 2021-07-27 10:38:31 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@4cb28781
+[ERROR] 2021-07-27 10:38:31 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@8aae123
+[WARN] 2021-07-27 10:38:31 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@8aae123
+[ERROR] 2021-07-27 10:40:05 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@290ab07a
+[WARN] 2021-07-27 10:40:05 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@290ab07a
+[ERROR] 2021-07-27 10:40:05 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@3484c047
+[WARN] 2021-07-27 10:40:05 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@3484c047
+[ERROR] 2021-07-27 10:40:05 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@503fe2ac
+[WARN] 2021-07-27 10:40:05 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@503fe2ac
+[ERROR] 2021-07-27 10:40:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@290ab07a
+[WARN] 2021-07-27 10:40:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@290ab07a
+[ERROR] 2021-07-27 10:40:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@3484c047
+[WARN] 2021-07-27 10:40:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@3484c047
+[ERROR] 2021-07-27 10:40:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@503fe2ac
+[WARN] 2021-07-27 10:40:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@503fe2ac
+[ERROR] 2021-07-27 10:41:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:41:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[ERROR] 2021-07-27 10:41:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:41:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[ERROR] 2021-07-27 10:41:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:41:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[ERROR] 2021-07-27 10:41:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:41:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[ERROR] 2021-07-27 10:41:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:41:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[ERROR] 2021-07-27 10:41:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:41:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[ERROR] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@da2140f
+[WARN] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@da2140f
+[WARN] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@da2140f
+[ERROR] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7079cb62
+[WARN] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7079cb62
+[WARN] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@7079cb62
+[ERROR] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@50e1ba1c
+[WARN] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@50e1ba1c
+[WARN] 2021-07-27 10:42:45 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@50e1ba1c
+[ERROR] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@da2140f
+[WARN] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@da2140f
+[WARN] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@da2140f
+[ERROR] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7079cb62
+[WARN] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7079cb62
+[WARN] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@7079cb62
+[ERROR] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@50e1ba1c
+[WARN] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@50e1ba1c
+[WARN] 2021-07-27 10:42:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@50e1ba1c
+[ERROR] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@23cb716e
+[WARN] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@23cb716e
+[WARN] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@23cb716e
+[ERROR] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@1b7f0790
+[WARN] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@1b7f0790
+[WARN] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@1b7f0790
+[ERROR] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@f8c13e1
+[WARN] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@f8c13e1
+[WARN] 2021-07-27 10:44:43 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@f8c13e1
+[ERROR] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@23cb716e
+[WARN] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@23cb716e
+[WARN] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@23cb716e
+[ERROR] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@1b7f0790
+[WARN] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@1b7f0790
+[WARN] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@1b7f0790
+[ERROR] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@f8c13e1
+[WARN] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@f8c13e1
+[WARN] 2021-07-27 10:44:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@f8c13e1
+[ERROR] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[ERROR] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[ERROR] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:45:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[ERROR] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[ERROR] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[ERROR] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:45:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[ERROR] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[WARN] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@46ae54b9
+[ERROR] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[WARN] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@2702d1ee
+[ERROR] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[WARN] 2021-07-27 10:45:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@2da01aa1
+[ERROR] 2021-07-27 10:46:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@4e22f000
+[WARN] 2021-07-27 10:46:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@4e22f000
+[ERROR] 2021-07-27 10:46:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@c350598
+[WARN] 2021-07-27 10:46:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@c350598
+[ERROR] 2021-07-27 10:46:50 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@6d605a42
+[WARN] 2021-07-27 10:46:50 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@6d605a42
+[ERROR] 2021-07-27 10:46:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@4e22f000
+[WARN] 2021-07-27 10:46:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@4e22f000
+[ERROR] 2021-07-27 10:46:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@c350598
+[WARN] 2021-07-27 10:46:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@c350598
+[ERROR] 2021-07-27 10:46:53 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@6d605a42
+[WARN] 2021-07-27 10:46:53 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@6d605a42
+[ERROR] 2021-07-27 10:46:56 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@4e22f000
+[WARN] 2021-07-27 10:46:56 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@4e22f000
+[ERROR] 2021-07-27 10:46:56 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@c350598
+[WARN] 2021-07-27 10:46:56 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@c350598
+[ERROR] 2021-07-27 10:46:56 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@6d605a42
+[WARN] 2021-07-27 10:46:56 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@6d605a42
+[ERROR] 2021-07-27 11:33:47 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@669ef1e6
+[ERROR] 2021-07-27 11:33:47 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@9801751
+[ERROR] 2021-07-27 11:33:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@45c05e90
+[ERROR] 2021-07-27 11:33:50 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@669ef1e6
+[ERROR] 2021-07-27 11:33:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@9801751
+[ERROR] 2021-07-27 11:33:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@45c05e90
+[ERROR] 2021-07-27 11:33:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@669ef1e6
+[ERROR] 2021-07-27 11:33:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@9801751
+[ERROR] 2021-07-27 11:33:54 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@45c05e90
+[ERROR] 2021-07-27 11:33:57 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@669ef1e6
+[ERROR] 2021-07-27 11:33:57 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@9801751
+[ERROR] 2021-07-27 11:33:57 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@45c05e90
+[ERROR] 2021-07-27 11:35:34 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@7ba155f7
+[ERROR] 2021-07-27 11:35:34 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@7ba155f7
+[ERROR] 2021-07-27 11:35:34 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@59336fda
+[ERROR] 2021-07-27 11:35:34 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@59336fda
+[ERROR] 2021-07-27 11:35:35 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@397c7688
+[ERROR] 2021-07-27 11:35:35 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@397c7688
+[ERROR] 2021-07-27 11:35:38 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@7ba155f7
+[ERROR] 2021-07-27 11:35:38 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@7ba155f7
+[ERROR] 2021-07-27 11:35:38 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@59336fda
+[ERROR] 2021-07-27 11:35:38 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@59336fda
+[ERROR] 2021-07-27 11:35:38 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@397c7688
+[ERROR] 2021-07-27 11:35:38 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@397c7688
+[ERROR] 2021-07-27 11:36:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@5bc7167d
+[WARN] 2021-07-27 11:36:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@5bc7167d
+[ERROR] 2021-07-27 11:36:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@4dc7153
+[WARN] 2021-07-27 11:36:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@4dc7153
+[ERROR] 2021-07-27 11:36:50 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@45b5b95f
+[WARN] 2021-07-27 11:36:50 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@45b5b95f
+[ERROR] 2021-07-27 11:36:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@5bc7167d
+[WARN] 2021-07-27 11:36:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@5bc7167d
+[ERROR] 2021-07-27 11:36:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@4dc7153
+[WARN] 2021-07-27 11:36:52 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@4dc7153
+[ERROR] 2021-07-27 11:36:53 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@45b5b95f
+[WARN] 2021-07-27 11:36:53 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@45b5b95f
+[WARN] 2021-07-27 11:38:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[WARN] 2021-07-27 11:38:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[WARN] 2021-07-27 11:38:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[WARN] 2021-07-27 11:38:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.DbStatHandler@1b541a9
+[WARN] 2021-07-27 11:38:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SessionStatHandler@428680e7
+[WARN] 2021-07-27 11:38:49 [CLASS NAME]InputStreamServerHandler [MESSAGE]::warn::com.skylar.server.handler.statHandler.SqlStatHandler@542a69aa
+[ERROR] 2021-07-27 11:43:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@55d5bbfb
+[ERROR] 2021-07-27 11:43:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7e0fbe87
+[ERROR] 2021-07-27 11:43:48 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@6cb9969d
+[ERROR] 2021-07-27 11:43:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@55d5bbfb
+[ERROR] 2021-07-27 11:43:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7e0fbe87
+[ERROR] 2021-07-27 11:43:51 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@6cb9969d
+[TRACE] 2021-07-27 11:58:58 [CLASS NAME]Server [MESSAGE]::::::: [START SERVER ] :::::::::
+[ERROR] 2021-07-27 11:59:03 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@41ff7abc
+[ERROR] 2021-07-27 11:59:03 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7e781248
+[ERROR] 2021-07-27 11:59:03 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@bbe3023
+[ERROR] 2021-07-27 11:59:06 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@41ff7abc
+[ERROR] 2021-07-27 11:59:06 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7e781248
+[ERROR] 2021-07-27 11:59:06 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@bbe3023
+[ERROR] 2021-07-27 11:59:09 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@41ff7abc
+[ERROR] 2021-07-27 11:59:09 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7e781248
+[ERROR] 2021-07-27 11:59:09 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@bbe3023
+[ERROR] 2021-07-27 11:59:12 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@41ff7abc
+[ERROR] 2021-07-27 11:59:12 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7e781248
+[ERROR] 2021-07-27 11:59:12 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@bbe3023
+[TRACE] 2021-07-27 12:00:06 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 12:00:06 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 12:00:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@41ff7abc
+[ERROR] 2021-07-27 12:00:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@7e781248
+[ERROR] 2021-07-27 12:00:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@bbe3023
+[TRACE] 2021-07-27 12:00:41 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 12:00:42 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 12:00:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@4a85bab4
+[TRACE] 2021-07-27 12:00:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@5b9d380d
+[TRACE] 2021-07-27 12:00:46 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@2b3c145c
+[TRACE] 2021-07-27 13:29:24 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 13:29:25 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 13:29:28 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:28.902}
+[TRACE] 2021-07-27 13:29:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@6f8951d2
+[TRACE] 2021-07-27 13:29:29 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:29.040}
+[TRACE] 2021-07-27 13:29:29 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:29.053}
+[TRACE] 2021-07-27 13:29:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@34c516c8
+[TRACE] 2021-07-27 13:29:29 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@6d4457e4
+[TRACE] 2021-07-27 13:29:32 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:32.090}
+[TRACE] 2021-07-27 13:29:32 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@6f8951d2
+[TRACE] 2021-07-27 13:29:32 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:32.158}
+[TRACE] 2021-07-27 13:29:32 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@34c516c8
+[TRACE] 2021-07-27 13:29:32 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:32.166}
+[TRACE] 2021-07-27 13:29:32 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@6d4457e4
+[TRACE] 2021-07-27 13:29:49 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 13:29:50 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 13:29:54 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:54.159}
+[TRACE] 2021-07-27 13:29:54 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:54.295}
+[TRACE] 2021-07-27 13:29:54 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:54.309}
+[TRACE] 2021-07-27 13:29:57 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:57.344}
+[TRACE] 2021-07-27 13:29:57 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:57.412}
+[TRACE] 2021-07-27 13:29:57 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:29:57.421}
+[TRACE] 2021-07-27 13:30:00 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:30:00.464}
+[TRACE] 2021-07-27 13:30:00 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:30:00.519}
+[TRACE] 2021-07-27 13:30:00 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{oracle.jdbc.driver.T4CConnection@4b53f538=2021-07-27T13:30:00.526}
+[TRACE] 2021-07-27 13:59:38 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 13:59:39 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 13:59:43 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:43 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:43 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:46 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:46 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:46 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:49 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:49 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:49 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:52 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:52 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:52 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.722=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:55 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.722=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.763=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:55 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.722=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.763=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.826=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:55 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.831=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.722=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.763=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.826=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:58 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.831=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:58.866=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.722=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.763=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.826=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:58 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.831=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:58.916=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:58.866=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.722=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.763=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.826=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 13:59:58 [CLASS NAME]OracleConnectionPool [MESSAGE]>>>>>>>>>>{2021-07-27T13:59:43.403=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.515=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.452=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.556=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.662=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.831=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.267=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:46.507=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:58.916=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:58.866=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.622=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:49.616=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:43.417=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:58.921=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.722=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.763=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:52.716=oracle.jdbc.driver.T4CConnection@4b53f538, 2021-07-27T13:59:55.826=oracle.jdbc.driver.T4CConnection@4b53f538}
+[TRACE] 2021-07-27 14:15:38 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:15:39 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:15:43 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:15:43 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:15:43 [CLASS NAME]SqlStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:15:46 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:15:46 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:17:52 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:17:54 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:17:57 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:17:57 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:17:57 [CLASS NAME]SqlStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:18:00 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:18:00 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:46:40 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:46:40 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:46:44 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:46:44 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:46:44 [CLASS NAME]SqlStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:46:47 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:46:47 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:50:45 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:50:46 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:50:49 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:50:49 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:50:49 [CLASS NAME]SqlStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:50:52 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:50:52 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:51:38 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:51:39 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:51:43 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:51:43 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:51:43 [CLASS NAME]SqlStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:52:43 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:52:44 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:52:48 [CLASS NAME]DbStatGather [MESSAGE]null[Ljava.lang.StackTraceElement;@4bb4de6a
+[ERROR] 2021-07-27 14:52:48 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:52:48 [CLASS NAME]SqlStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:52:51 [CLASS NAME]DbStatGather [MESSAGE]null[Ljava.lang.StackTraceElement;@8b87145
+[ERROR] 2021-07-27 14:52:51 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:53:34 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:53:36 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:53:39 [CLASS NAME]DbStatGather [MESSAGE]Exception : nullnull
+[ERROR] 2021-07-27 14:53:39 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:53:39 [CLASS NAME]SqlStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:53:42 [CLASS NAME]DbStatGather [MESSAGE]Exception : nullnull
+[ERROR] 2021-07-27 14:53:42 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:54:47 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:54:48 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 14:54:52 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:54:52 [CLASS NAME]SessionStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:54:52 [CLASS NAME]SqlStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:54:55 [CLASS NAME]DbStatGather [MESSAGE]null
+[ERROR] 2021-07-27 14:54:55 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:55:45 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:55:46 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 14:55:50 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@134593bf}
+[ERROR] 2021-07-27 14:55:50 [CLASS NAME]DbStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:55:50 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a}
+[ERROR] 2021-07-27 14:55:50 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:55:50 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@7ba18f1b}
+[ERROR] 2021-07-27 14:55:50 [CLASS NAME]SqlStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:57:48 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 14:57:49 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 14:57:52 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@134593bf}
+[ERROR] 2021-07-27 14:57:52 [CLASS NAME]DbStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:57:52 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a}
+[ERROR] 2021-07-27 14:57:52 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:57:52 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@7ba18f1b}
+[ERROR] 2021-07-27 14:57:52 [CLASS NAME]SqlStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:57:55 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@6483f5ae}
+[ERROR] 2021-07-27 14:57:55 [CLASS NAME]DbStatGather [MESSAGE]null
+[TRACE] 2021-07-27 14:57:55 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@b9afc07}
+[ERROR] 2021-07-27 14:57:55 [CLASS NAME]SessionStatGather [MESSAGE]null
+[TRACE] 2021-07-27 15:00:19 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:00:21 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:00:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@134593bf}
+[ERROR] 2021-07-27 15:00:24 [CLASS NAME]DbStatGather [MESSAGE]null
+[TRACE] 2021-07-27 15:00:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a}
+[TRACE] 2021-07-27 15:00:24 [CLASS NAME]SessionStatGather [MESSAGE]connectionVO 1 : com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a
+[TRACE] 2021-07-27 15:00:24 [CLASS NAME]SessionStatGather [MESSAGE]connectionVO 2 : com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a
+[TRACE] 2021-07-27 15:00:24 [CLASS NAME]SessionStatGather [MESSAGE]connectionVO 3 : com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a
+[TRACE] 2021-07-27 15:00:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@662ac478}
+[ERROR] 2021-07-27 15:00:24 [CLASS NAME]SqlStatGather [MESSAGE]null
+[TRACE] 2021-07-27 15:00:27 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@6743e411}
+[ERROR] 2021-07-27 15:00:27 [CLASS NAME]DbStatGather [MESSAGE]null
+[TRACE] 2021-07-27 15:00:27 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@3eb25e1a}
+[TRACE] 2021-07-27 15:00:27 [CLASS NAME]SessionStatGather [MESSAGE]connectionVO 1 : com.skylar.util.vo.dbconn.ConnectionVO@3eb25e1a
+[TRACE] 2021-07-27 15:00:27 [CLASS NAME]SessionStatGather [MESSAGE]connectionVO 2 : com.skylar.util.vo.dbconn.ConnectionVO@3eb25e1a
+[TRACE] 2021-07-27 15:00:27 [CLASS NAME]SessionStatGather [MESSAGE]connectionVO 3 : com.skylar.util.vo.dbconn.ConnectionVO@3eb25e1a
+[TRACE] 2021-07-27 15:02:29 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:02:30 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:02:34 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@134593bf}
+[ERROR] 2021-07-27 15:02:34 [CLASS NAME]DbStatGather [MESSAGE]null
+[TRACE] 2021-07-27 15:02:34 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a}
+[TRACE] 2021-07-27 15:02:34 [CLASS NAME]SessionStatGather [MESSAGE]111111 : {data=com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a}
+[TRACE] 2021-07-27 15:02:34 [CLASS NAME]SessionStatGather [MESSAGE]222222222222 : {data=com.skylar.util.vo.dbconn.ConnectionVO@4bb4de6a}
+[TRACE] 2021-07-27 15:02:34 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@44c03695}
+[ERROR] 2021-07-27 15:02:34 [CLASS NAME]SqlStatGather [MESSAGE]null
+[TRACE] 2021-07-27 15:02:37 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@7e6f74c}
+[ERROR] 2021-07-27 15:02:37 [CLASS NAME]DbStatGather [MESSAGE]null
+[TRACE] 2021-07-27 15:02:37 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@dd05255}
+[TRACE] 2021-07-27 15:02:37 [CLASS NAME]SessionStatGather [MESSAGE]111111 : {data=com.skylar.util.vo.dbconn.ConnectionVO@dd05255}
+[TRACE] 2021-07-27 15:02:37 [CLASS NAME]SessionStatGather [MESSAGE]222222222222 : {data=com.skylar.util.vo.dbconn.ConnectionVO@dd05255}
+[TRACE] 2021-07-27 15:10:19 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:10:20 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:10:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@134593bf}
+[TRACE] 2021-07-27 15:10:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!{data=com.skylar.util.vo.dbconn.ConnectionVO@134593bf}
+[TRACE] 2021-07-27 15:10:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e}
+[TRACE] 2021-07-27 15:10:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!{data=com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e}
+[TRACE] 2021-07-27 15:10:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@31dadd46}
+[TRACE] 2021-07-27 15:10:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!{data=com.skylar.util.vo.dbconn.ConnectionVO@31dadd46}
+[TRACE] 2021-07-27 15:10:27 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@2a62b5bc}
+[TRACE] 2021-07-27 15:10:27 [CLASS NAME]OracleConnectionPool [MESSAGE]!!{data=com.skylar.util.vo.dbconn.ConnectionVO@2a62b5bc}
+[TRACE] 2021-07-27 15:10:27 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@{data=com.skylar.util.vo.dbconn.ConnectionVO@2f66e802}
+[TRACE] 2021-07-27 15:10:27 [CLASS NAME]OracleConnectionPool [MESSAGE]!!{data=com.skylar.util.vo.dbconn.ConnectionVO@2f66e802}
+[TRACE] 2021-07-27 15:12:06 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:12:07 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:12:11 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@134593bf
+[TRACE] 2021-07-27 15:12:11 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@134593bf
+[TRACE] 2021-07-27 15:12:11 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e
+[TRACE] 2021-07-27 15:12:11 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e
+[TRACE] 2021-07-27 15:12:11 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@6d025197
+[TRACE] 2021-07-27 15:12:11 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@6d025197
+[TRACE] 2021-07-27 15:12:14 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec
+[TRACE] 2021-07-27 15:12:14 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec
+[TRACE] 2021-07-27 15:12:14 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@34abdee4
+[TRACE] 2021-07-27 15:12:14 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@34abdee4
+[TRACE] 2021-07-27 15:17:18 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:17:20 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@134593bf
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!!![com.skylar.util.vo.dbconn.ConnectionVO@134593bf]
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@134593bf
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!!![com.skylar.util.vo.dbconn.ConnectionVO@134593bf, com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e]
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@6d025197
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!!![com.skylar.util.vo.dbconn.ConnectionVO@134593bf, com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e, com.skylar.util.vo.dbconn.ConnectionVO@6d025197]
+[TRACE] 2021-07-27 15:17:24 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@6d025197
+[TRACE] 2021-07-27 15:17:27 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec
+[TRACE] 2021-07-27 15:17:27 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!!![com.skylar.util.vo.dbconn.ConnectionVO@134593bf, com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e, com.skylar.util.vo.dbconn.ConnectionVO@6d025197, com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec]
+[TRACE] 2021-07-27 15:17:27 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec
+[TRACE] 2021-07-27 15:17:27 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@com.skylar.util.vo.dbconn.ConnectionVO@34abdee4
+[TRACE] 2021-07-27 15:17:27 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!!![com.skylar.util.vo.dbconn.ConnectionVO@134593bf, com.skylar.util.vo.dbconn.ConnectionVO@5b67bb7e, com.skylar.util.vo.dbconn.ConnectionVO@6d025197, com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec, com.skylar.util.vo.dbconn.ConnectionVO@34abdee4]
+[TRACE] 2021-07-27 15:17:27 [CLASS NAME]OracleConnectionPool [MESSAGE]!!com.skylar.util.vo.dbconn.ConnectionVO@34abdee4
+[TRACE] 2021-07-27 15:21:38 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:21:39 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@29626d54]
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@29626d54
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@82ea68c]
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@82ea68c
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@72437d8d]
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@72437d8d
+[TRACE] 2021-07-27 15:21:43 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec]
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@a87f8ec
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@34abdee4]
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@34abdee4
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@588ab592]
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@588ab592
+[TRACE] 2021-07-27 15:21:46 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@255990cc]
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@255990cc
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@3cbcd8f3]
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@3cbcd8f3
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]usedConnections::::::::::::::::::[com.skylar.util.vo.dbconn.ConnectionVO@53ac845a]
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]usingConnection.get("data")::::com.skylar.util.vo.dbconn.ConnectionVO@53ac845a
+[TRACE] 2021-07-27 15:21:49 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@15b3e5b, oracle.jdbc.driver.T4CConnection@4b53f538]
+[TRACE] 2021-07-27 15:23:02 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:23:03 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:23:07 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>oracle.jdbc.driver.T4CConnection@134593bf
+[TRACE] 2021-07-27 15:23:07 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@61ca2dfa, oracle.jdbc.driver.T4CConnection@134593bf]
+[TRACE] 2021-07-27 15:23:07 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>oracle.jdbc.driver.T4CConnection@134593bf
+[TRACE] 2021-07-27 15:23:07 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@61ca2dfa, oracle.jdbc.driver.T4CConnection@134593bf]
+[TRACE] 2021-07-27 15:23:07 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>oracle.jdbc.driver.T4CConnection@134593bf
+[TRACE] 2021-07-27 15:23:07 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@61ca2dfa, oracle.jdbc.driver.T4CConnection@134593bf]
+[TRACE] 2021-07-27 15:23:10 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>oracle.jdbc.driver.T4CConnection@134593bf
+[TRACE] 2021-07-27 15:23:10 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@61ca2dfa, oracle.jdbc.driver.T4CConnection@134593bf]
+[TRACE] 2021-07-27 15:23:10 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>oracle.jdbc.driver.T4CConnection@134593bf
+[TRACE] 2021-07-27 15:23:10 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@61ca2dfa, oracle.jdbc.driver.T4CConnection@134593bf]
+[TRACE] 2021-07-27 15:23:10 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>oracle.jdbc.driver.T4CConnection@134593bf
+[TRACE] 2021-07-27 15:23:10 [CLASS NAME]OracleConnectionPool [MESSAGE]connections::::::::::::::::::[oracle.jdbc.driver.T4CConnection@7907ec20, oracle.jdbc.driver.T4CConnection@44a3ec6b, oracle.jdbc.driver.T4CConnection@768b970c, oracle.jdbc.driver.T4CConnection@61ca2dfa, oracle.jdbc.driver.T4CConnection@134593bf]
+[TRACE] 2021-07-27 15:24:36 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:24:37 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:24:41 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:41.423
+[TRACE] 2021-07-27 15:24:41 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:41.423
+[TRACE] 2021-07-27 15:24:41 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:41.562
+[TRACE] 2021-07-27 15:24:41 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:41.562
+[TRACE] 2021-07-27 15:24:41 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:41.574
+[TRACE] 2021-07-27 15:24:41 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:41.574
+[TRACE] 2021-07-27 15:24:44 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:44.609
+[TRACE] 2021-07-27 15:24:44 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:44.609
+[TRACE] 2021-07-27 15:24:44 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:44.674
+[TRACE] 2021-07-27 15:24:44 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:44.674
+[TRACE] 2021-07-27 15:24:44 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:44.683
+[TRACE] 2021-07-27 15:24:44 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:44.683
+[TRACE] 2021-07-27 15:24:47 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:47.727
+[TRACE] 2021-07-27 15:24:47 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:47.727
+[TRACE] 2021-07-27 15:24:47 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:47.779
+[TRACE] 2021-07-27 15:24:47 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:47.779
+[TRACE] 2021-07-27 15:24:47 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:24:47.786
+[TRACE] 2021-07-27 15:24:47 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:24:47.786
+[TRACE] 2021-07-27 15:27:01 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:27:02 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:27:06 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:27:06.132
+[TRACE] 2021-07-27 15:27:06 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:27:06 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:27:06.267
+[TRACE] 2021-07-27 15:27:06 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:27:06 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:27:06.280
+[TRACE] 2021-07-27 15:27:06 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:27:09 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:27:09.315
+[TRACE] 2021-07-27 15:27:09 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:27:09 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:27:09.375
+[TRACE] 2021-07-27 15:27:09 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:27:09 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:27:09.383
+[TRACE] 2021-07-27 15:27:09 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:47 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:28:47 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:28:51 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:51.528
+[TRACE] 2021-07-27 15:28:51 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:51 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:51.664
+[TRACE] 2021-07-27 15:28:51 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:51 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:51.678
+[TRACE] 2021-07-27 15:28:51 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:54 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:54.712
+[TRACE] 2021-07-27 15:28:54 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:54 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:54.777
+[TRACE] 2021-07-27 15:28:54 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:54 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:54.785
+[TRACE] 2021-07-27 15:28:54 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:57 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:57.828
+[TRACE] 2021-07-27 15:28:57 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:57 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:57.888
+[TRACE] 2021-07-27 15:28:57 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:28:57 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:28:57.894
+[TRACE] 2021-07-27 15:28:57 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:00 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:00.931
+[TRACE] 2021-07-27 15:29:00 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:00 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:00.988
+[TRACE] 2021-07-27 15:29:00 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:00 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:00.994
+[TRACE] 2021-07-27 15:29:01 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:04 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:04.035
+[TRACE] 2021-07-27 15:29:04 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:04 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:04.085
+[TRACE] 2021-07-27 15:29:04 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:04 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:04.094
+[TRACE] 2021-07-27 15:29:04 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:07 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:07.132
+[TRACE] 2021-07-27 15:29:07 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:07 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:07.189
+[TRACE] 2021-07-27 15:29:07 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:07 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:07.195
+[TRACE] 2021-07-27 15:29:07 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:10 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:10.232
+[TRACE] 2021-07-27 15:29:10 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:10 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:10.294
+[TRACE] 2021-07-27 15:29:10 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:29:10 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:29:10.300
+[TRACE] 2021-07-27 15:29:10 [CLASS NAME]OracleConnectionPool [MESSAGE]!!!true
+[TRACE] 2021-07-27 15:31:09 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:31:10 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:31:14.053
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@@@@@@@@@@@@-1
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:31:14.053
+[ERROR] 2021-07-27 15:31:14 [CLASS NAME]DbStatGather [MESSAGE]-1
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:31:14.125
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@@@@@@@@@@@@-1
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:31:14.125
+[ERROR] 2021-07-27 15:31:14 [CLASS NAME]SessionStatGather [MESSAGE]-1
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:31:14.132
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@@@@@@@@@@@@-1
+[TRACE] 2021-07-27 15:31:14 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:31:14.132
+[ERROR] 2021-07-27 15:31:14 [CLASS NAME]SqlStatGather [MESSAGE]-1
+[TRACE] 2021-07-27 15:31:17 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:31:17.167
+[TRACE] 2021-07-27 15:31:17 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@@@@@@@@@@@@-1
+[TRACE] 2021-07-27 15:31:17 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:31:17.167
+[ERROR] 2021-07-27 15:31:17 [CLASS NAME]DbStatGather [MESSAGE]-1
+[TRACE] 2021-07-27 15:31:17 [CLASS NAME]OracleConnectionPool [MESSAGE]time ++++++++2021-07-27T15:31:17.170
+[TRACE] 2021-07-27 15:31:17 [CLASS NAME]OracleConnectionPool [MESSAGE]@@@@@@@@@@@@@@@@@@@-1
+[TRACE] 2021-07-27 15:31:17 [CLASS NAME]OracleConnectionPool [MESSAGE]connections>>>>>>>>>>>>>>>>>>2021-07-27T15:31:17.170
+[ERROR] 2021-07-27 15:31:17 [CLASS NAME]SessionStatGather [MESSAGE]-1
+[TRACE] 2021-07-27 15:41:27 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:41:28 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 15:49:10 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 15:49:11 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 15:53:07 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 15:53:10 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 15:56:46 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 15:56:49 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 16:02:05 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 16:02:08 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 16:07:57 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 16:08:00 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 16:13:53 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-27 16:13:56 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-07-27 16:48:00 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 16:48:03 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-27 16:48:07 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@68cd17c6
+[TRACE] 2021-07-27 16:48:07 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@25b3fb4b
+[TRACE] 2021-07-27 16:48:08 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@53e8386f
+[TRACE] 2021-07-27 16:48:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@68cd17c6
+[TRACE] 2021-07-27 16:48:10 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@25b3fb4b
+[TRACE] 2021-07-27 16:48:11 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@53e8386f
+[TRACE] 2021-07-27 16:48:14 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@68cd17c6
+[TRACE] 2021-07-27 16:48:14 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@25b3fb4b
+[TRACE] 2021-07-27 16:48:14 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@53e8386f
+[TRACE] 2021-07-27 16:48:17 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@68cd17c6
+[TRACE] 2021-07-27 16:48:17 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@25b3fb4b
+[TRACE] 2021-07-27 16:48:17 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@53e8386f
+[TRACE] 2021-07-27 16:48:20 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@68cd17c6
+[TRACE] 2021-07-27 16:48:20 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@25b3fb4b
+[TRACE] 2021-07-27 16:48:20 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@53e8386f
+[TRACE] 2021-07-27 16:48:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@68cd17c6
+[TRACE] 2021-07-27 16:48:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@25b3fb4b
+[TRACE] 2021-07-27 16:48:23 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@53e8386f
+[TRACE] 2021-07-27 16:48:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.DbStatHandler@68cd17c6
+[TRACE] 2021-07-27 16:48:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SessionStatHandler@25b3fb4b
+[TRACE] 2021-07-27 16:48:26 [CLASS NAME]InputStreamServerHandler [MESSAGE]::trace::com.skylar.server.handler.statHandler.SqlStatHandler@53e8386f
+[TRACE] 2021-07-27 16:48:53 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 16:48:54 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 16:48:58 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@fa357fe
+[DEBUG] 2021-07-27 16:48:58 [CLASS NAME]InputStreamServerHandler [MESSAGE]::debug::com.skylar.server.handler.statHandler.DbStatHandler@fa357fe
+[ERROR] 2021-07-27 16:48:58 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@5b04062a
+[DEBUG] 2021-07-27 16:48:58 [CLASS NAME]InputStreamServerHandler [MESSAGE]::debug::com.skylar.server.handler.statHandler.SessionStatHandler@5b04062a
+[ERROR] 2021-07-27 16:48:58 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2ac03a93
+[DEBUG] 2021-07-27 16:48:58 [CLASS NAME]InputStreamServerHandler [MESSAGE]::debug::com.skylar.server.handler.statHandler.SqlStatHandler@2ac03a93
+[ERROR] 2021-07-27 16:49:01 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@fa357fe
+[DEBUG] 2021-07-27 16:49:01 [CLASS NAME]InputStreamServerHandler [MESSAGE]::debug::com.skylar.server.handler.statHandler.DbStatHandler@fa357fe
+[ERROR] 2021-07-27 16:49:01 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@5b04062a
+[DEBUG] 2021-07-27 16:49:01 [CLASS NAME]InputStreamServerHandler [MESSAGE]::debug::com.skylar.server.handler.statHandler.SessionStatHandler@5b04062a
+[ERROR] 2021-07-27 16:49:01 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@2ac03a93
+[DEBUG] 2021-07-27 16:49:01 [CLASS NAME]InputStreamServerHandler [MESSAGE]::debug::com.skylar.server.handler.statHandler.SqlStatHandler@2ac03a93
+[TRACE] 2021-07-27 16:49:08 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-27 16:49:09 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-27 16:49:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@3500ba3a
+[ERROR] 2021-07-27 16:49:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@5af959d8
+[ERROR] 2021-07-27 16:49:13 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@4fb564ac
+[ERROR] 2021-07-27 16:49:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.DbStatHandler@3500ba3a
+[ERROR] 2021-07-27 16:49:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SessionStatHandler@5af959d8
+[ERROR] 2021-07-27 16:49:16 [CLASS NAME]InputStreamServerHandler [MESSAGE]::error::com.skylar.server.handler.statHandler.SqlStatHandler@4fb564ac
+[TRACE] 2021-07-28 14:15:02 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-28 14:15:06 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-28 14:32:50 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-28 14:32:52 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-28 14:35:52 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 14:35:56 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 14:38:31 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 14:38:34 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-07-28 14:45:57 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-28 14:46:00 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-28 14:49:00 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 14:49:03 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 14:51:38 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 14:51:41 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-07-28 15:42:07 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-28 15:42:09 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-28 15:45:10 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 15:45:13 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 15:47:48 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 15:47:51 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 15:50:29 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-28 15:50:32 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-07-29 10:24:56 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 10:24:57 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-29 10:35:19 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 10:35:20 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-29 10:38:21 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 10:38:24 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 10:40:59 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 10:41:02 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-07-29 10:44:26 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 10:44:27 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 10:44:29 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-29 10:47:30 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 10:47:33 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-07-29 10:51:26 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 10:51:28 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-29 10:54:12 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 10:54:12 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-29 10:58:46 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 10:58:47 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-29 15:59:06 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 15:59:07 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-29 16:00:28 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[ERROR] 2021-07-29 16:00:28 [CLASS NAME]DbStatGather [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:00:28 [CLASS NAME]SessionStatGather [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:00:28 [CLASS NAME]SqlStatGather [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:00:28 [CLASS NAME]Client [MESSAGE]Connection reset
+[ERROR] 2021-07-29 16:00:28 [CLASS NAME]Client [MESSAGE]Connection reset by peer: socket write error
+[TRACE] 2021-07-29 16:02:50 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 16:04:24 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 16:10:34 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[ERROR] 2021-07-29 16:10:35 [CLASS NAME]Server [MESSAGE]Address already in use: JVM_Bind
+[TRACE] 2021-07-29 16:10:35 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-29 16:11:02 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 16:16:10 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 16:34:30 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 16:34:32 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-29 16:36:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[TRACE] 2021-07-29 16:36:33 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 16:36:33 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-29 16:36:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[TRACE] 2021-07-29 16:36:35 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-29 16:36:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:36:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:37:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:45 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:46 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:47 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:48 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:49 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:50 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:51 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:52 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:53 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:54 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:55 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:56 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:57 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:58 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:38:59 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:00 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:01 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:02 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:03 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:04 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:05 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:06 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:07 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:08 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:09 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:10 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:11 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:12 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:13 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:14 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:15 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:16 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:17 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:18 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:19 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:20 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:21 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:22 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:23 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:24 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:25 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:26 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:27 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:28 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:29 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:30 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:31 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:32 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:33 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:34 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:35 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:36 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:37 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:38 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:39 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:40 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:41 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:42 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:43 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[ERROR] 2021-07-29 16:39:44 [CLASS NAME]SqlIdManagerThreadHandler [MESSAGE]Connection reset by peer: socket write error
+[TRACE] 2021-07-29 16:40:02 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 16:40:03 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-07-29 16:43:56 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 16:43:59 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 16:47:11 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 16:47:14 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 16:54:33 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 16:54:36 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 17:05:10 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-07-29 17:05:13 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-07-29 17:10:27 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 17:10:28 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-29 17:11:23 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-29 17:11:24 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-30 10:40:39 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-30 10:40:41 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-07-30 13:51:58 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-07-30 13:52:00 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:04:56 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:04:58 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:10:12 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:10:14 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-08-02 00:11:14 [CLASS NAME]InsertDbStatInDb [MESSAGE]오류: 날짜/시간 필드의 값이 범위를 벗어남: "2021-08-02 24:10:14"
+[TRACE] 2021-08-02 00:11:51 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:11:53 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:29:49 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:29:51 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-08-02 00:31:52 [CLASS NAME]InsertDbStatInDb [MESSAGE]오류: 날짜/시간 필드의 값이 범위를 벗어남: "2021-08-02 24:30:52"
+[ERROR] 2021-08-02 00:33:44 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-08-02 00:33:47 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-08-02 00:34:23 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:34:24 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:35:15 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:35:17 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:36:41 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:36:42 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:37:17 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:37:18 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-08-02 00:39:28 [CLASS NAME]Client [MESSAGE]Connection refused: connect
+[TRACE] 2021-08-02 00:39:29 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:39:35 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:42:52 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:44:03 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:44:05 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:46:51 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:46:52 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:49:52 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:49:53 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:50:08 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:50:10 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:50:42 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:50:44 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 00:51:47 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:51:49 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-08-02 00:52:35 [CLASS NAME]Client [MESSAGE]Connection refused: connect
+[TRACE] 2021-08-02 00:52:39 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 00:52:41 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 10:18:32 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 10:18:34 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[ERROR] 2021-08-02 10:22:27 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-08-02 10:22:30 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-08-02 10:25:42 [CLASS NAME]SqlIdManager [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[ERROR] 2021-08-02 10:25:45 [CLASS NAME]DbStatGather [MESSAGE]ORA-01000: maximum open cursors exceeded
+
+[TRACE] 2021-08-02 10:30:03 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 10:30:04 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 13:19:57 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 13:19:58 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 13:44:48 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 13:44:50 [CLASS NAME]Client [MESSAGE]START CLIENT !!
+[TRACE] 2021-08-02 13:45:46 [CLASS NAME]Server [MESSAGE]START SERVER!!
+[TRACE] 2021-08-02 13:45:48 [CLASS NAME]Client [MESSAGE]START CLIENT !!
