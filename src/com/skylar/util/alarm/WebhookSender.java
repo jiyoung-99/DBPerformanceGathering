@@ -1,7 +1,7 @@
-package com.skylar.util.alarm;
+package com.exem.util.alarm;
 
-import com.skylar.util.alarm.form.ConnectInfo;
-import com.skylar.util.alarm.form.JandiMessage;
+import com.exem.util.alarm.form.ConnectInfo;
+import com.exem.util.alarm.form.JandiMessage;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -40,14 +40,14 @@ public class WebhookSender implements Webhook {
             byte[] input = param.getBytes("utf-8");
             os.write(input, 0, input.length);
 
-            try (BufferedReader br = new BufferedReader(
-                    new InputStreamReader(connection.getInputStream(), "utf-8"))) {
-                StringBuilder response = new StringBuilder();
-                String responseLine = null;
-                while ((responseLine = br.readLine()) != null) {
-                    response.append(responseLine.trim());
-                }
-            }
+//            try (BufferedReader br = new BufferedReader(
+//                    new InputStreamReader(connection.getInputStream(), "utf-8"))) {
+//                StringBuilder response = new StringBuilder();
+//                String responseLine = null;
+//                while ((responseLine = br.readLine()) != null) {
+//                    response.append(responseLine.trim());
+//                }
+//            }
 
         } catch (IOException e) {
             e.printStackTrace();

@@ -1,4 +1,4 @@
-package com.skylar.util.vo.db;
+package com.exem.util.vo.db;
 
 public class PostgreDBVO {
 

@@ -1,7 +1,7 @@
-package com.skylar.util.alarm;
+package com.exem.util.alarm;
 
-import com.skylar.util.alarm.form.ConnectInfo;
-import com.skylar.util.alarm.form.JandiMessage;
+import com.exem.util.alarm.form.ConnectInfo;
+import com.exem.util.alarm.form.JandiMessage;
 
 
 public interface Webhook {

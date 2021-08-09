@@ -1,4 +1,4 @@
-package com.skylar.util.vo.socket;
+package com.exem.util.vo.socket;
 
 public class SocketVO {
 

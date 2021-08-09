@@ -1,15 +1,15 @@
-package com.skylar.client.manage;
+package com.exem.client.manage;
 
 
-import com.skylar.client.connection.OracleConnectionPool;
-import com.skylar.util.dbQuery.ClientQuery;
-import com.skylar.util.dbconn.OracleCloser;
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.dbconn.ConnectionVO;
-import com.skylar.util.vo.message.MessageVO;
-import com.skylar.util.vo.message.SqlIdVO;
-import com.skylar.util.vo.message.SqlTextVO;
+import com.exem.client.connection.OracleConnectionPool;
+import com.exem.util.dbQuery.ClientQuery;
+import com.exem.util.dbconn.OracleCloser;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.dbconn.ConnectionVO;
+import com.exem.util.vo.message.MessageVO;
+import com.exem.util.vo.message.SqlIdVO;
+import com.exem.util.vo.message.SqlTextVO;
 
 import java.io.*;
 import java.sql.*;

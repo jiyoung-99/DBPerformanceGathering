@@ -1,4 +1,4 @@
-package com.skylar.util.dbQuery;
+package com.exem.util.dbQuery;
 
 public class ServerQuery {
 

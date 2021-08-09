@@ -1,14 +1,14 @@
-package com.skylar.client;
+package com.exem.client;
 
 
-import com.skylar.client.manage.SqlIdManager;
-import com.skylar.client.statGather.DbStatGather;
-import com.skylar.client.statGather.SessionStatGather;
-import com.skylar.client.statGather.SqlStatGather;
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.LoggerLevel;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.socket.SocketVO;
+import com.exem.client.manage.SqlIdManager;
+import com.exem.client.statGather.DbStatGather;
+import com.exem.client.statGather.SessionStatGather;
+import com.exem.client.statGather.SqlStatGather;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.LoggerLevel;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.socket.SocketVO;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

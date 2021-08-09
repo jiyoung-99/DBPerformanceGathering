@@ -1,4 +1,4 @@
-package com.skylar.util.vo.dbconn;
+package com.exem.util.vo.dbconn;
 
 import java.sql.Connection;
 import java.time.LocalDateTime;

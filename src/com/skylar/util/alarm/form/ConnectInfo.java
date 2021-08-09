@@ -1,4 +1,4 @@
-package com.skylar.util.alarm.form;
+package com.exem.util.alarm.form;
 
 public class ConnectInfo {
 

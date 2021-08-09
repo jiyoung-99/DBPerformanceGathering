@@ -1,4 +1,4 @@
-package com.skylar.util.logger;
+package com.exem.util.logger;
 
 public interface MyLogger {
 

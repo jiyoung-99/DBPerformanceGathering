@@ -1,9 +1,9 @@
-package com.skylar.client.connection;
+package com.exem.client.connection;
 
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.db.OracleDBVO;
-import com.skylar.util.vo.dbconn.ConnectionVO;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.db.OracleDBVO;
+import com.exem.util.vo.dbconn.ConnectionVO;
 
 import java.sql.*;
 import java.time.LocalDateTime;
@@ -19,8 +19,8 @@ import java.util.*;
  **/
 public class OracleConnectionPool {
 
-    private static Stack<ConnectionVO> connections = new Stack<>();             //기본 생성 커넥션
-    private static List<ConnectionVO> usedConnections = new ArrayList<>();    //사용한 커넥션 모아두는 맵
+    private static LinkedList<ConnectionVO> connections = new LinkedList<>();       //기본 생성 커넥션
+    private static LinkedList<ConnectionVO> usedConnections = new LinkedList<>();   //사용한 커넥션 모아두는 맵
     private static final int MAX_CONNECTIONS = 20;                        //최대 갯수
     private static final int MIN_IDLE_CONNECTIONS = 10;                   //최소로 유지되는 갯수
     private static OracleConnectionPool instance = null;
@@ -54,7 +54,7 @@ public class OracleConnectionPool {
             for (int i = 0; i < MIN_IDLE_CONNECTIONS; i++) {
                 Connection conn = DriverManager.getConnection(OracleDBVO.ORACLE_URL, OracleDBVO.ORACLE_USER, OracleDBVO.ORACLE_PASSWORD);
                 LocalDateTime now = LocalDateTime.now();
-                connections.add(new ConnectionVO(now, conn));
+                connections.addLast(new ConnectionVO(now, conn));
             }
         } catch (ClassNotFoundException e) {
             myLogger.error("init connectPool ClassNotFoundException: " + e.getMessage());
@@ -78,7 +78,7 @@ public class OracleConnectionPool {
                 try {
                     LocalDateTime now = LocalDateTime.now();
                     Connection conn = DriverManager.getConnection(OracleDBVO.ORACLE_URL, OracleDBVO.ORACLE_USER, OracleDBVO.ORACLE_PASSWORD);
-                    connections.add(new ConnectionVO(now, conn));
+                    connections.addLast(new ConnectionVO(now, conn));
                 } catch (SQLException throwables) {
                     throwables.printStackTrace();
                 }
@@ -93,8 +93,8 @@ public class OracleConnectionPool {
                 }
             }
         }
-        ConnectionVO usingConnection = connections.pop();
-        usedConnections.add(usingConnection);
+        ConnectionVO usingConnection = connections.pollLast();
+        usedConnections.addLast(usingConnection);
 
         return usingConnection;
     }
@@ -105,7 +105,7 @@ public class OracleConnectionPool {
     public synchronized void returnConnection(ConnectionVO usingConnection) {
         LocalDateTime now = LocalDateTime.now();
         usingConnection.setTime(now);
-        connections.add(usingConnection);
+        connections.addLast(usingConnection);
         this.notifyAll();
         organizeConnection();
     }
@@ -114,7 +114,7 @@ public class OracleConnectionPool {
     public void organizeConnection(){
         LocalDateTime now = LocalDateTime.now();
         while(connections.size() > MIN_IDLE_CONNECTIONS) {
-            ConnectionVO connectionVO = connections.pop();
+            ConnectionVO connectionVO = connections.pollFirst();
             try {
                 connectionVO.getConn().close();
             } catch (SQLException throwables) {

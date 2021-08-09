@@ -1,11 +1,11 @@
-package com.skylar.server.manage;
+package com.exem.server.manage;
 
-import com.skylar.util.vo.manage.SqlIdInMemoryVO;
+import com.exem.util.vo.manage.SqlIdInMemoryVO;
 
 import java.sql.Timestamp;
 import java.util.*;
 
-import static com.skylar.server.Server.sqlIdInMemory;
+import static com.exem.server.Server.sqlIdInMemory;
 
 public class InsertSqlIdInMemory {
 

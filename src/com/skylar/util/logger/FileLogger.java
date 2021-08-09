@@ -1,4 +1,4 @@
-package com.skylar.util.logger;
+package com.exem.util.logger;
 
 import java.io.IOException;
 import java.nio.file.Files;

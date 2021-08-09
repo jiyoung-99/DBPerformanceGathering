@@ -1,4 +1,4 @@
-package com.skylar.util.logger;
+package com.exem.util.logger;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

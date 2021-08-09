@@ -1,4 +1,4 @@
-package com.skylar.util.alarm.enums;
+package com.exem.util.alarm.enums;
 
 public enum WebhookUrl {
 

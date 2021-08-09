@@ -1,10 +1,10 @@
-package com.skylar.server.manage;
+package com.exem.server.manage;
 
 
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.message.MessageVO;
-import com.skylar.util.vo.message.SqlIdVO;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.message.MessageVO;
+import com.exem.util.vo.message.SqlIdVO;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import static com.skylar.server.Server.*;
+import static com.exem.server.Server.*;
 
 
 public class SqlIdManagerThreadHandler implements Runnable {

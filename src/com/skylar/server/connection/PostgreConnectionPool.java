@@ -1,10 +1,11 @@
-package com.skylar.server.connection;
+package com.exem.server.connection;
 
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.db.OracleDBVO;
-import com.skylar.util.vo.db.PostgreDBVO;
-import com.skylar.util.vo.dbconn.ConnectionVO;
+import com.exem.server.handler.InputStreamServerHandler;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.db.OracleDBVO;
+import com.exem.util.vo.db.PostgreDBVO;
+import com.exem.util.vo.dbconn.ConnectionVO;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -19,8 +20,8 @@ import java.util.*;
  */
 public class PostgreConnectionPool {
 
-    private static Stack<ConnectionVO> connections = new Stack<>();           //기본 생성 커넥션
-    private static List<ConnectionVO> usedConnections = new ArrayList<>();    //사용한 커넥션 모아두는 맵
+    private static LinkedList<ConnectionVO> connections = new LinkedList<>();           //기본 생성 커넥션
+    private static LinkedList<ConnectionVO> usedConnections = new LinkedList<>();    //사용한 커넥션 모아두는 맵
     private static final int MAX_CONNECTIONS = 20;                            //최대 갯수
     private static final int MIN_IDLE_CONNECTIONS = 10;                       //최소 유지 갯수
     private static PostgreConnectionPool instance = null;
@@ -44,10 +45,10 @@ public class PostgreConnectionPool {
 
         try {
             Class.forName(PostgreDBVO.POSTGRES_DRIVER);
-            for (int i = 0; i < MAX_CONNECTIONS; i++) {
+            for (int i = 0; i < MIN_IDLE_CONNECTIONS; i++) {
                 Connection conn = DriverManager.getConnection(PostgreDBVO.POSTGRES_URL, PostgreDBVO.POSTGRES_USER, PostgreDBVO.POSTGRES_PASSWORD);
                 LocalDateTime now = LocalDateTime.now();
-                connections.add(new ConnectionVO(now, conn));
+                connections.addLast(new ConnectionVO(now, conn));
             }
         } catch (ClassNotFoundException e) {
             myLogger.error("init connectPool ClassNotFoundException: " + e.getMessage());
@@ -67,7 +68,7 @@ public class PostgreConnectionPool {
                 try {
                     LocalDateTime now = LocalDateTime.now();
                     Connection conn = DriverManager.getConnection(OracleDBVO.ORACLE_URL, OracleDBVO.ORACLE_USER, OracleDBVO.ORACLE_PASSWORD);
-                    connections.add(new ConnectionVO(now, conn));
+                    connections.addLast(new ConnectionVO(now, conn));
                 } catch (SQLException throwables) {
                     throwables.printStackTrace();
                 }
@@ -82,8 +83,8 @@ public class PostgreConnectionPool {
                 }
             }
         }
-        ConnectionVO usingConnection = connections.pop();
-        usedConnections.add(usingConnection);
+        ConnectionVO usingConnection = connections.pollLast();
+        usedConnections.addLast(usingConnection);
 
         return usingConnection;
     }
@@ -94,7 +95,7 @@ public class PostgreConnectionPool {
     public synchronized void returnConnection(ConnectionVO usingConnection) {
         LocalDateTime now = LocalDateTime.now();
         usingConnection.setTime(now);
-        connections.add(usingConnection);
+        connections.addLast(usingConnection);
         this.notifyAll();
         organizeConnection();
     }
@@ -103,8 +104,8 @@ public class PostgreConnectionPool {
     //일정한 시간 내 실행
     public void organizeConnection() {
         LocalDateTime now = LocalDateTime.now();
-        while(connections.size() >= MIN_IDLE_CONNECTIONS) {
-            ConnectionVO connectionVO = connections.pop();
+        while(connections.size() > MIN_IDLE_CONNECTIONS) {
+            ConnectionVO connectionVO = connections.pollFirst();
             try {
                 connectionVO.getConn().close();
             } catch (SQLException throwables) {

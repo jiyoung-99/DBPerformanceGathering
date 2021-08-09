@@ -1,20 +1,20 @@
-package com.skylar.server.handler.statHandler;
+package com.exem.server.handler.statHandler;
 
-import com.skylar.server.connection.PostgreConnectionPool;
-import com.skylar.server.handler.StatHandler;
-import com.skylar.util.dbQuery.ServerQuery;
-import com.skylar.util.dbconn.PostgresCloser;
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.dbconn.ConnectionVO;
-import com.skylar.util.vo.manage.SqlIdInMemoryVO;
-import com.skylar.util.vo.message.SqlTextVO;
+import com.exem.server.connection.PostgreConnectionPool;
+import com.exem.server.handler.StatHandler;
+import com.exem.util.dbQuery.ServerQuery;
+import com.exem.util.dbconn.PostgresCloser;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.dbconn.ConnectionVO;
+import com.exem.util.vo.manage.SqlIdInMemoryVO;
+import com.exem.util.vo.message.SqlTextVO;
 
 import java.sql.*;
 import java.text.SimpleDateFormat;
 import java.util.List;
 
-import static com.skylar.server.Server.*;
+import static com.exem.server.Server.*;
 
 
 public class SqlTextHandler extends StatHandler<SqlTextVO> {

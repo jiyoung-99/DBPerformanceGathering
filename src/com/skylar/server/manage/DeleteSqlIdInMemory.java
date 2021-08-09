@@ -1,13 +1,13 @@
-package com.skylar.server.manage;
+package com.exem.server.manage;
 
-import com.skylar.util.vo.manage.SqlIdInMemoryVO;
+import com.exem.util.vo.manage.SqlIdInMemoryVO;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.TimerTask;
 
-import static com.skylar.server.Server.sqlIdInMemory;
+import static com.exem.server.Server.sqlIdInMemory;
 
 public class DeleteSqlIdInMemory extends TimerTask {
 

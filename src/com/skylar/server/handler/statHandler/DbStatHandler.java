@@ -1,23 +1,23 @@
-package com.skylar.server.handler.statHandler;
+package com.exem.server.handler.statHandler;
 
-import com.skylar.server.connection.PostgreConnectionPool;
-import com.skylar.server.handler.StatHandler;
-import com.skylar.util.alarm.WebhookSender;
-import com.skylar.util.alarm.enums.AlarmLevel;
-import com.skylar.util.alarm.enums.ConnectColor;
-import com.skylar.util.alarm.enums.WebhookUrl;
-import com.skylar.util.alarm.form.ConnectInfo;
-import com.skylar.util.dbQuery.ServerQuery;
-import com.skylar.util.vo.dbconn.ConnectionVO;
-import com.skylar.util.vo.message.DBStatVO;
+import com.exem.server.connection.PostgreConnectionPool;
+import com.exem.server.handler.StatHandler;
+import com.exem.util.alarm.WebhookSender;
+import com.exem.util.alarm.enums.AlarmLevel;
+import com.exem.util.alarm.enums.ConnectColor;
+import com.exem.util.alarm.enums.WebhookUrl;
+import com.exem.util.alarm.form.ConnectInfo;
+import com.exem.util.dbQuery.ServerQuery;
+import com.exem.util.vo.dbconn.ConnectionVO;
+import com.exem.util.vo.message.DBStatVO;
 
 import java.sql.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 
-import static com.skylar.server.Server.dbStatInMemory;
-import static com.skylar.server.Server.prevDbStatInMemory;
+import static com.exem.server.Server.dbStatInMemory;
+import static com.exem.server.Server.prevDbStatInMemory;
 
 public class DbStatHandler extends StatHandler<DBStatVO> {
 
@@ -56,10 +56,10 @@ public class DbStatHandler extends StatHandler<DBStatVO> {
             } else {
                 Long minusValue = nowValue - prevValue;             //메모리에 있는것과 현재 밸류의 차이
                 if(minusValue > 10000000) {
-                    dbAlarmHistory(vo.getStatId(), AlarmLevel.warning.getLevelName(), minusValue);
+                    insertDbAlarmHistory(vo.getStatId(), AlarmLevel.warning.getLevelName(), minusValue);
                     createAlarm(vo.getStatId(), AlarmLevel.warning.getLevelName(), minusValue);
                 }else if(minusValue > 1000000) {
-                    dbAlarmHistory(vo.getStatId(), AlarmLevel.critical.getLevelName(), minusValue);
+                    insertDbAlarmHistory(vo.getStatId(), AlarmLevel.critical.getLevelName(), minusValue);
                     createAlarm(vo.getStatId(), AlarmLevel.critical.getLevelName(), minusValue);
                 }
                 prevDbStatInMemory.put(statId, nowValue);
@@ -72,12 +72,12 @@ public class DbStatHandler extends StatHandler<DBStatVO> {
     }
 
     /**
-     * 디비 알람 히스토리 테이블에 인서트 하는 메소드ㄴ
+     * 디비 알람 히스토리 테이블에 인서트 하는 메소드
      * @param statId
      * @param level
      * @param minusValue
      */
-    public void dbAlarmHistory(Long statId, String level, Long minusValue) {
+    public void insertDbAlarmHistory(Long statId, String level, Long minusValue) {
         Connection conn = null;
         PreparedStatement pstmt = null;
 

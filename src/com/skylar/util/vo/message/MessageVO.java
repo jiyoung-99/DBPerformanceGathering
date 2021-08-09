@@ -1,4 +1,4 @@
-package com.skylar.util.vo.message;
+package com.exem.util.vo.message;
 
 import java.io.Serializable;
 import java.util.List;

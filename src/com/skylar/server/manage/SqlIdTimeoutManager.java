@@ -1,14 +1,14 @@
-package com.skylar.server.manage;
+package com.exem.server.manage;
 
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.manage.SqlIdInMemoryVO;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.manage.SqlIdInMemoryVO;
 
 import java.sql.Timestamp;
 import java.util.Map;
 import java.util.TimerTask;
 
-import static com.skylar.server.Server.sqlIdTimeoutMap;
+import static com.exem.server.Server.sqlIdTimeoutMap;
 
 public class SqlIdTimeoutManager extends TimerTask {
 

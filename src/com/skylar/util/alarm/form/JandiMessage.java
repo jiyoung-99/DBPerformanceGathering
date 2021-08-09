@@ -1,4 +1,6 @@
-package com.skylar.util.alarm.form;
+package com.exem.util.alarm.form;
+
+import java.util.List;
 
 public class JandiMessage {
 

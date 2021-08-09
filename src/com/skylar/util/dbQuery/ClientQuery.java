@@ -1,4 +1,4 @@
-package com.skylar.util.dbQuery;
+package com.exem.util.dbQuery;
 
 /**
  * 쿼리문 모아두는 곳

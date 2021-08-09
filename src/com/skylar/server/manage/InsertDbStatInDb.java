@@ -1,18 +1,18 @@
-package com.skylar.server.manage;
+package com.exem.server.manage;
 
-import com.skylar.server.connection.PostgreConnectionPool;
-import com.skylar.util.dbQuery.ServerQuery;
-import com.skylar.util.dbconn.PostgresCloser;
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.dbconn.ConnectionVO;
+import com.exem.server.connection.PostgreConnectionPool;
+import com.exem.util.dbQuery.ServerQuery;
+import com.exem.util.dbconn.PostgresCloser;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.dbconn.ConnectionVO;
 
 import java.sql.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 
-import static com.skylar.server.Server.dbStatInMemory;
+import static com.exem.server.Server.dbStatInMemory;
 
 
 public class InsertDbStatInDb extends Thread {
@@ -85,13 +85,15 @@ public class InsertDbStatInDb extends Thread {
                 String dbStatId = entry.getKey();
                 LinkedList<Long> dbStatValues = entry.getValue();
                 LongSummaryStatistics summary = getSummaryStatistics(dbStatValues);
+                String partitionKey = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyMMdd"));
+//                String now = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
                 try {
                     ConnectionVO usingConnection = pool.getConnection();
                     conn = usingConnection.getConn();
                     pstmt = conn.prepareStatement(ServerQuery.INSERT_DB_STAT);
-                    pstmt.setInt(1, random.nextInt(100));
+                    pstmt.setInt(1, Integer.parseInt(partitionKey));
                     pstmt.setInt(2, random.nextInt(100));
-                    pstmt.setString(3, now.format(formatter));
+                    pstmt.setString(3, now.format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")));
                     pstmt.setLong(4, Long.parseLong(dbStatId)); //statid
                     pstmt.setLong(5, (long) summary.getAverage()); //avg
                     pstmt.setLong(6, (long) summary.getMin());  //min

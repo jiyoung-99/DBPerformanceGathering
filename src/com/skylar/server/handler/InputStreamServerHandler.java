@@ -1,9 +1,9 @@
-package com.skylar.server.handler;
+package com.exem.server.handler;
 
-import com.skylar.util.logger.LoggerFactory;
-import com.skylar.util.logger.MyLogger;
-import com.skylar.util.vo.message.ValueObject;
-import com.skylar.util.vo.message.MessageVO;
+import com.exem.util.logger.LoggerFactory;
+import com.exem.util.logger.MyLogger;
+import com.exem.util.vo.message.ValueObject;
+import com.exem.util.vo.message.MessageVO;
 
 import java.io.*;
 import java.util.*;
@@ -46,9 +46,6 @@ public class InputStreamServerHandler implements Runnable {
                 String type = messageVO.getType();
                 List<ValueObject> valueObjects = messageVO.getData();
                 StatHandler statHandler = handlerMap.get(type);
-                //TEST용 코드, error 일 시 무조건 나타나게 한다.
-//                myLogger.error("::error::"+ statHandler);
-//                myLogger.debug("::debug::"+ statHandler);
                 if(statHandler != null) {
                     statHandler.apply(valueObjects);
                 }

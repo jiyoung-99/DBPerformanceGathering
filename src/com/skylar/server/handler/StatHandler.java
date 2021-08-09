@@ -1,7 +1,7 @@
-package com.skylar.server.handler;
+package com.exem.server.handler;
 
 
-import com.skylar.util.vo.message.ValueObject;
+import com.exem.util.vo.message.ValueObject;
 
 import java.util.List;
 
